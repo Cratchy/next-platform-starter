@@ -1,0 +1,36 @@
+{
+    "HomePage": {
+        "title": "Daniel Zaetsu",
+        "hero": {
+            "name": "Motion Designer / CG Artist",
+            "role": "Creating visual experiences"
+        },
+        "buttons": {
+            "projects": "Projects",
+            "contact": "Contact"
+        }
+    },
+    "Navigation": {
+        "home": "Home",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "Common": {
+        "viewProject": "View Project",
+        "contactMe": "Contact Me"
+    },
+    "ContactPage": {
+        "title": "Contact",
+        "email": "Email",
+        "telegram": "Telegram",
+        "socials": "Social Networks",
+        "getInTouch": "Get in touch"
+    },
+    "Project": {
+        "Task": "Task",
+        "Description": "Description",
+        "Contribution": "My Contribution",
+        "Software": "Software",
+        "Role": "Role"
+    }
+}

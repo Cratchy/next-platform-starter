@@ -38,3 +38,7 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+# From sitee 2
+next-env.d.ts
+.vercel

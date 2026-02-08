@@ -1,0 +1,36 @@
+{
+    "HomePage": {
+        "title": "Даниил Сидоров",
+        "hero": {
+            "name": "Motion Designer & CG Artist",
+            "role": "Создаю визуальный опыт"
+        },
+        "buttons": {
+            "projects": "Проекты",
+            "contact": "Связаться"
+        }
+    },
+    "Navigation": {
+        "home": "Главная",
+        "projects": "Проекты",
+        "contact": "Контакты"
+    },
+    "Common": {
+        "viewProject": "Смотреть проект",
+        "contactMe": "Связаться"
+    },
+    "ContactPage": {
+        "title": "Контакты",
+        "email": "Email",
+        "telegram": "Telegram",
+        "socials": "Социальные сети",
+        "getInTouch": "Свяжитесь со мной"
+    },
+    "Project": {
+        "Task": "Задача",
+        "Description": "Описание",
+        "Contribution": "Мой вклад",
+        "Software": "Софт",
+        "Role": "Роль"
+    }
+}
